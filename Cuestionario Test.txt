@@ -28,4 +28,4 @@ CUESTIONARIO TEST (ejercicio 1.1)
 
 14) Falso; Poner un intro solo afecta a la visión en pantalla, realmente el ordenador entiende ese intro como otro caracter y de hecho al no ser de tipo double lo más probable es que de un error
 
-15) Falso; Es una pregunta subjetiva, depende de a quien puede resultarle fácil o dificil, pero en terminos generales, en un lenguaje considerado fácil, lo dificil es saber usarlo 
+15) Falso; Es una pregunta subjetiva, depende de a quien puede resultarle fácil o dificil, pero en terminos generales, en un lenguaje considerado fácil, lo dificil es saber usarlo
