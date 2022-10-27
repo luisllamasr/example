@@ -1,0 +1,31 @@
+CUESTIONARIO TEST (ejercicio 1.1)
+
+1) Falso; En la memoria central se ejecutan los programas y determinados datos necesarios se guardan temporalmente, mientras que en la memoria masiva se guarda todo para largo plazo, es decir, programas, datos, ...
+
+2) Falso; No tiene porqué ser así, ya que la memoria principal es aleatoria y se puede guardar en cualquier casilla, no tiene que ser necesariamente la siguiente, quien decide a donde va es el sistema operativo
+
+3) Falso; Un carácter es distinto a un número para el ordenador, lo tiene asociado con diferentes bits (en la comilla doble cada carácter ocupa 8 bits más el de carácter de terminación y de la otra forma ocupa lo que ocupe el tipo de variable, en el caso de double 64 bits), por tanto es distinto, uno obtiene valor numérico y el otro simbólico
+
+4) Falso; Tener un estandar es importante para que los programadores se entiendan, pero eso no hace que el programa funcione en cualquier maquina siguiendo la misma codificación; en cada ordenador el codificador es el que se encarga de traducir el código al binario y será una traducción distinta para cada ordenador
+
+5) Falso; Con que haya un espacio ya es suficiente para que el programa detecte que son palabras diferentes, pero añadir más no altera la visión del ordenador, solo la nuestra
+
+6) Falso; El programa funciona perfectamente si usar el using;
+
+7) Verdadero
+
+8) Falso; Cuando está definido con comillas equivale a el carácter a, mientras que cuando sale en el programa con las dobles comillas significa que va a salir en la pantalla la letra a
+
+9) Falso; 2ndo no es válido porque empieza por un número, _variable_ tampoco lo es porque empieza por barrabaja, dirección lleva tilde y año va con el carácter ñ, caracteres que nos son válidos para variables
+
+10) Verdadero
+
+11) Falso; Cuando no pones paréntesis, usando la jerarquía el programa va de izquierda a derecha operando, mientras que cuando pones paréntesis la jerarquía es la que indican los paréntesis
+
+12) Falso; cin no es un identificador, es una palabra reservada para que haya una entrada en el programa
+
+13) Falso; Hay que definir las variables antes de hacer cualquier tipo de operacion aritmeticológica
+
+14) Falso; Poner un intro solo afecta a la visión en pantalla, realmente el ordenador entiende ese intro como otro caracter y de hecho al no ser de tipo double lo más probable es que de un error
+
+15) Falso; Es una pregunta subjetiva, depende de a quien puede resultarle fácil o dificil, pero en terminos generales, en un lenguaje considerado fácil, lo dificil es saber usarlo
